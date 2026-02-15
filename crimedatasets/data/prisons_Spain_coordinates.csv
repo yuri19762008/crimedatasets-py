@@ -1,0 +1,98 @@
+idx,name,latitude,longitude
+0,Centro Hospitalario de Alicante-Psiquiatrico,38.3500732,-0.563469
+1,Centro Penitenciario de Albacete,39.01059375,-1.7922654872665955
+2,Centro Penitenciario de Albolote,37.329952399999996,-3.673359420628586
+3,Centro Penitenciario de Alcala de Guadaira-Mujeres,37.33454025,-5.792896337687555
+4,Centro Penitenciario de Alcazar de San Juan,39.3993768,-3.2163723980759107
+5,Centro Penitenciario de Algeciras,36.145803,-5.485341974151254
+6,Centro Penitenciario de Alicante Cumplimiento,38.3511045,-0.5630531028362911
+7,Centro Penitenciario de Almeria Cumplimiento,36.865699,-2.304084435971707
+8,Centro Penitenciario de Araba/Alava,42.8237038,-2.7948823
+9,Centro Penitenciario de Arrecife,28.99948685,-13.53168000627797
+10,Centro Penitenciario de Avila,40.691164349999994,-4.627230237198496
+11,Centro Penitenciario de Badajoz,38.82996675,-7.03541861489161
+12,Centro Penitenciario de Bilbao,43.23350635,-2.8772510750537483
+13,Centro Penitenciario de Burgos,42.34959255,-3.750474851273675
+14,Centro Penitenciario de Caceres,39.4729804,-6.336550901676583
+15,Centro Penitenciario de Castellon,40.36847135,0.006047426500436624
+16,Centro Penitenciario de Castellon II (ALBOCASSER),40.36847135,0.006047426500436624
+17,Centro Penitenciario de Ceuta,35.880047000000005,-5.355791389344556
+18,Centro Penitenciario de Cordoba,37.903957500000004,-4.672612184579613
+19,Centro Penitenciario de Cuenca,40.1162042,-3.0768609
+20,Centro Penitenciario de Curtis,43.15755985,-7.985489081251597
+21,Centro Penitenciario de Daroca,41.11189695,-1.3759295789245494
+22,Centro Penitenciario de Dueñas,41.855926749999995,-4.512191242245795
+23,Centro Penitenciario de el Dueso (SANTOÑA),43.45881935,-3.4574911547021023
+24,Centro Penitenciario de Herrera de la Mancha,39.06167335000001,-3.260217312390748
+25,Centro Penitenciario de Huelva,37.31902945,-6.882913350494725
+26,Centro Penitenciario de Ibiza,38.91003535,1.4044297919421862
+27,Centro Penitenciario de Jaen,37.8613561,-3.7713378526015986
+28,Centro Penitenciario de la Lama,42.4058223,-8.454438818521005
+29,Centro Penitenciario de Las Palmas,28.05962925,-15.435403511906234
+30,Centro Penitenciario de Logroño,42.4365326,-2.4712099429171674
+31,Centro Penitenciario de Lugo - Bonxe,43.1020236,-7.580448307583136
+32,Centro Penitenciario de Madrid I - Mujeres (ALCALA DE HENARES),40.52197925,-3.330018764065001
+33,Centro Penitenciario de Madrid III (Valdemoro),40.21965695,-3.658972799113306
+34,Centro Penitenciario de Madrid IV (Navalcarnero),40.2915242,-3.9603104843096437
+35,Centro Penitenciario de Madrid V (Soto del Real),40.71885615,-3.7831340088005683
+36,Centro Penitenciario de Madrid VI (Aranjuez),39.9531002,-3.702263427403111
+37,Centro Penitenciario de Madrid VII (ESTREMERA),40.113942800000004,-3.0758690114810974
+38,Centro Penitenciario de Malaga,36.67470205,-4.5834915722515515
+39,Centro Penitenciario de Málaga II,37.06269555,-4.362260052871797
+40,Centro Penitenciario de Mansilla de las Mulas,42.5008194,-5.361213410212563
+41,Centro Penitenciario de Melilla,35.30023575,-2.9435958379066784
+42,Centro Penitenciario de Murcia,37.9276478,-1.1879663527220528
+43,Centro Penitenciario de Ourense,42.30029775,-7.754544938089117
+44,Centro Penitenciario de Palma de Mallorca,39.599727,2.6509608075446853
+45,Centro Penitenciario de Pamplona I,42.82685645,-1.677957155793157
+46,Centro Penitenciario de San Sebastian,43.30337805,-1.9574652289587102
+47,Centro Penitenciario de Santa Cruz de la Palma,28.679956,-17.769530219920632
+48,Centro Penitenciario de Segovia,40.934957,-4.164897852013311
+49,Centro Penitenciario de Sevilla,41.182143,-5.6945506
+50,Centro Penitenciario de Sevilla II (Morón de la Frontera),37.160754,-5.407245774960822
+51,Centro Penitenciario de Soria,41.76944705,-2.468998601661326
+52,Centro Penitenciario de Teruel,40.3502053,-1.1185458268493695
+53,Centro Penitenciario de Topas,41.197951599999996,-5.6944593780314445
+54,Centro Penitenciario de Valencia,39.3142334,-0.43576614561870053
+55,Centro Penitenciario de Valladolid,41.7387161,-4.825595228843934
+56,Centro Penitenciario de Villabona,43.4778512,-5.812450806334715
+57,Centro Penitenciario de Villena,38.718485,-0.9257062
+58,Centro Penitenciario de Zuera,41.95393115,-0.7025537304594291
+59,Centro Penitenciario Las Palmas II,27.80913735,-15.461085853377092
+60,Centro Penitenciario Lugo - Monterroso,42.80927885,-7.769949975635115
+61,Centro Penitenciario Madrid II (ALCALA DE HENARES - MECO),40.52464035,-3.3300267341116663
+62,Centro Penitenciario Menorca,39.867005649999996,4.2579546666278505
+63,Centro Penitenciario Murcia II,37.9951065,-1.3865142587529076
+64,Centro Penitenciario Ocaña I,39.9540275,-3.4988134760931686
+65,Centro Penitenciario Ocaña II,39.9523079,-3.4972015
+66,Centro Penitenciario Puerto de Santa Maria - I,36.6614936,-6.247248872036419
+67,Centro Penitenciario Puerto de Santa Maria - II,36.662107950000006,-6.248558079316091
+68,Centro Penitenciario Puerto de Santa Maria III,36.6661816,-6.257851557370849
+69,Centro Penitenciario Tenerife II - el Rosario,28.45292215,-16.341656035913246
+70,Centro de Inserción Social Carmela Arias y Diaz de Rabago,43.3819008,-8.40688187812909
+71,Centro de Inserción Social David Beltran Catala,37.2741127,-6.920336007637928
+72,Centro de Inserción Social Evaristo Martin Nieto,36.69253305,-4.484454130953355
+73,Centro de Inserción Social Guillermo Miranda,37.93046425,-1.1895102022612272
+74,Centro de Inserción Social Joaquin Ruiz-Gimenez,39.56604095,2.6858886749999993
+75,Centro de Inserción Social Josefina Aldecoa,40.2931218,-3.9639317
+76,Centro de Inserción Social Luis Jimenez de Asua,37.3923565,-5.8465725730272915
+77,Centro de Inserción Social Manuel Montesinos,36.1469572,-5.484435125862606
+78,Centro de Inserción Social Matilde Cantos Fernandez,37.19141875,-3.606437326068602
+79,Centro de Inserción Social Melchor Rodriguez Garcia,40.5202741,-3.3321136
+80,Centro de Inserción Social Mercedes Pinto,28.4615768,-16.26777962061977
+81,Centro de Inserción Social Torre Espioca,39.36376465,-0.46303566131956375
+82,Centro de Inserción Social Victoria Kent,40.3953951,-3.692071518310252
+83,Centre Penitenciari Brians 1,41.467557850000006,1.8837949140665056
+84,Centre Penitenciari Brians 2,41.47302355,1.881407100910096
+85,Centre Penitenciari de Dones de Barcelona,41.393323800000005,2.1969640005012687
+86,Centre Penitenciari de Joves,41.576767,2.296408
+87,Centre Penitenciari Obert 2 de Barcelona,41.4534965,2.1915049420310755
+88,Centre Penitenciari Obert de Girona,42.0061408,2.8238967890159925
+89,Centre Penitenciari Obert de Lleida,41.62319545,0.6085743378828132
+90,Centre Penitenciari Obert de Tarragona,41.12244285,1.2414943340018165
+91,Centre Penitenciari Lledoners,41.76029295,1.8079555786366417
+92,Centre Penitenciari Mas d'Enric,41.15371845,1.2890284237674563
+93,Centre Penitenciari Ponent,41.623193400000005,0.607564772848654
+94,Centre Penitenciari Puig de les Basses,42.283478599999995,2.938487783246109
+95,Centre Penitenciari Quatre Camins,41.5776099,2.294356153121453
+96,Pavelló Hospitalari Penitenciari de Terrassa,41.556964985761994,2.0538938348791236

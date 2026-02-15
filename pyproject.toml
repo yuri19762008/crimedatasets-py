@@ -1,0 +1,58 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "crimedatasets"
+version = "0.1.0"
+description = "A curated collection of crime-related datasets for data analysis, criminology research, and education. Includes international crime statistics, incarceration data, mass shootings, hate crimes, and more from Kaggle sources."
+readme = "README.md"
+license = { file = "LICENSE" }
+authors = [
+    { name = "Renzo Caceres Rossi", email = "arenzocaceresrossi@gmail.com" }
+]
+maintainers = [
+    { name = "Renzo Caceres Rossi", email = "arenzocaceresrossi@gmail.com" }
+]
+requires-python = ">=3.8"
+keywords = [
+    "datasets",
+    "crime",
+    "criminology",
+    "criminal justice",
+    "crime statistics",
+    "law enforcement",
+    "incarceration",
+    "hate crimes",
+    "mass shootings",
+    "prisons",
+    "data analysis",
+    "data science",
+    "research",
+    "sociology",
+    "international",
+    "kaggle"
+]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Education",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Sociology",
+    "Topic :: Database",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3 :: Only",
+    "Operating System :: OS Independent",
+    "Natural Language :: English"
+]
+dependencies = [
+    "pandas>=1.5"
+]

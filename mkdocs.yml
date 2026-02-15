@@ -1,0 +1,17 @@
+site_name: crimedatasets
+site_description: A curated collection of crime-related datasets for data analysis, criminology research, and education
+site_author: Renzo Caceres Rossi
+
+theme:
+  name: material
+  language: en
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  palette:
+    scheme: default
+    primary: grey
+    accent: black
+
+nav:
+  - Home: index.md
+  - Examples: examples.md
