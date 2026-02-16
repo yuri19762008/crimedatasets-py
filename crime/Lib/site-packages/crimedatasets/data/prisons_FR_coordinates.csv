@@ -1,0 +1,296 @@
+dep,type,idx,name,latitude,longitude
+Ain,A,0,Centre pénitentiaire de Bourg-en-Bresse,46.19561525,5.24575686318212
+Aisne,A,1,Centre pénitentiaire de Château-Thierry,49.05008215,3.397028143907563
+Aisne,A,2,Centre pénitentiaire de Laon,49.5820256,3.638183349456678
+Allier,A,3,Centre pénitentiaire de Moulins-Yzeure,46.537681899999995,3.3552877566214594
+Bouches-du-Rhône,A,4,Centre pénitentiaire d’Aix-Luynes,43.481159649999995,5.39829480311538
+Bouches-du-Rhône,A,5,Centre pénitentiaire de Marseille,43.23248314999999,5.4147393100954275
+Calvados,A,6,Centre pénitentiaire de Caen,49.18522565,-0.40278899645997907
+Haute-Corse,A,7,Centre pénitentiaire de Borgo,42.5775476,9.445886121584946
+Drôme,A,8,Centre pénitentiaire de Valence,44.911139399999996,4.929394074718273
+Haute-Garonne,A,9,Centre pénitentiaire de Toulouse-Seysses,43.4891313,1.3256596861606846
+Gironde,A,10,Centre pénitentiaire de Bordeaux-Gradignan,44.7831752,-0.5958830816715681
+Hérault,A,11,Centre pénitentiaire de Béziers,43.339656500000004,3.1803971140205203
+Hérault,A,12,Centre pénitentiaire de Villeneuve-lès-Maguelone,43.546221,3.8264792285453595
+Ille-et-Vilaine,A,13,Centre pénitentiaire de Rennes,48.1005113,-1.6741917920901563
+Ille-et-Vilaine,A,14,Centre pénitentiaire de Rennes-Vezin-le-Coquet,48.10876575,-1.7368903130181876
+Indre,A,15,Centre pénitentiaire de Châteauroux,46.7933552,1.7221461465377266
+Isère,A,16,Centre pénitentiaire de Grenoble-Varces,45.099436049999994,5.686251662459265
+Isère,A,17,Centre pénitentiaire de Saint-Quentin-Fallavier,45.6583028,5.12521801963557
+Landes,A,18,Centre pénitentiaire de Mont-de-Marsan,43.895194000000004,-0.4498092924905801
+Loire,A,19,Centre pénitentiaire de Saint-Etienne-La Talaudière,45.472960900000004,4.415608826768538
+Loire-Atlantique,A,20,Centre pénitentiaire de Nantes,47.26716765,-1.5059618837965592
+Loiret,A,21,Centre pénitentiaire d’Orléans-Saran,47.9650823,1.8727090320257642
+Morbihan,A,22,Centre pénitentiaire de Lorient-Ploemeur,47.726339249999995,-3.4156513990699526
+Moselle,A,23,Centre pénitentiaire de Metz,49.09891025,6.20926448368301
+Nord,A,24,Centre pénitentiaire de Lille-Annœullin,50.5122116,2.939155076782866
+Nord,A,25,Centre pénitentiaire de Lille-Loos-Sequedin,50.620497,2.967030033522555
+Nord,A,26,Centre pénitentiaire de Maubeuge,50.28869545,4.0031105022405065
+Oise,A,27,Centre pénitentiaire de Beauvais,49.409146,2.08186245941282
+Oise,A,28,Centre pénitentiaire de Liancourt,49.3326658,2.476362300431382
+Orne,A,29,Centre pénitentiaire d’Alençon-Condé-sur-Sarthe,48.43970765,0.010139113372974082
+Pas-de-Calais,A,30,Centre pénitentiaire de Longuenesse,50.726293,2.247749496722383
+Pas-de-Calais,A,31,Centre pénitentiaire de Vendin-le-Vieil,50.45873215,2.821499058493697
+Puy-de-Dôme,A,32,Centre pénitentiaire de Riom,45.88982355,3.151027687988614
+Hautes-Pyrénées,A,33,Centre pénitentiaire de Lannemezan,43.11053815,0.37586900639392884
+Pyrénées-Orientales,A,34,Centre pénitentiaire de Perpignan,42.67991925,2.8713266137836744
+Haut-Rhin,A,35,Centre pénitentiaire de Mulhouse-Lutterbach,47.760515999999996,7.258304967633373
+Rhône,A,36,Centre pénitentiaire de Villefranche-sur-Saône,45.99755595,4.724998989055585
+Saône-et-Loire,A,37,Centre pénitentiaire de Varennes-le-Grand,46.6987568,4.836895568765476
+Savoie,A,38,Centre pénitentiaire d’Aiton,45.565218099999996,6.231702410190571
+Paris,A,39,Centre pénitentiaire de Paris-La Santé,48.833882700000004,2.3397439789181727
+Seine-Maritime,A,40,Centre pénitentiaire du Havre,49.5178565,0.2833644205684207
+Seine-et-Marne,A,41,Centre pénitentiaire du Sud Francilien,48.6022572,2.5914315422660916
+Seine-et-Marne,A,42,Centre pénitentiaire de Meaux-Chauconin-Neufmontiers,48.9616353,2.8655815250459993
+Yvelines,A,43,Centre pénitentiaire de Bois-d’Arcy,48.806750199999996,2.030337257054531
+Var,A,44,Centre pénitentiaire de Toulon-La Farlède,43.15857185,6.056813740287114
+Vaucluse,A,45,Centre pénitentiaire d’Avignon-Le Pontet,43.9689913,4.863238544847514
+Vienne,A,46,Centre pénitentiaire de Poitiers-Vivonne,46.4134051,0.24128725378547078
+Hauts-de-Seine,A,47,Centre pénitentiaire de Nanterre-Hauts-de-Seine,48.906717,2.2046705304022822
+Val-de-Marne,A,48,Centre pénitentiaire de Fresnes,48.76361315,2.3218525631887843
+Guadeloupe,A,49,Centre pénitentiaire de Baie-Mahault,16.26401955,-61.57247935
+Martinique,A,50,Centre pénitentiaire de Ducos,14.5765436,-60.99153995955844
+Guyane,A,51,Centre pénitentiaire de Rémire-Montjoly,4.8735315,-52.299281574510346
+La Réunion,A,52,Centre pénitentiaire de Saint-Denis,-20.919261149999997,55.50468410818293
+Saint-Pierre-et-Miquelon,A,53,Centre pénitentiaire de Saint-Pierre,46.781175,-56.1708112
+Mayotte,A,54,Centre pénitentiaire de Majicavo,-12.75066305,45.228176574858345
+Polynésie française,A,55,Centre pénitentiaire de Faa’a-Nuutania,-17.55685045,-149.5898852802626
+Polynésie française,A,56,Centre pénitentiaire de Taiohae,-8.9137449,-140.0943209
+Polynésie française,A,57,Centre pénitentiaire d’Uturoa,-16.729909,-151.4461513414802
+Nouvelle-Calédonie,A,58,Centre pénitentiaire de Nouméa,-22.27124375,166.424398113832
+Ain,B,59,Quartier maison d’arrêt du centre pénitentiaire de Bourg-en-Bresse,46.19561525,5.24575686318212
+Aisne,B,60,Quartier maison d’arrêt du centre pénitentiaire de Laon,49.5820256,3.638183349456678
+Allier,B,61,Maison d’arrêt de Montluçon,46.34031685,2.604501752710356
+Allier,B,62,Quartier maison d’arrêt du centre pénitentiaire de Moulins-Yzeure,46.537681899999995,3.3552877566214594
+Alpes-de-Haute-Provence,B,63,Maison d’arrêt de Digne,44.09187835,6.235408173621553
+Hautes-Alpes,B,64,Maison d’arrêt de Gap,44.5600025,6.077651477848101
+Alpes-Maritimes,B,65,Maison d’arrêt de Grasse,43.6750845,6.904169998034886
+Alpes-Maritimes,B,66,Maison d’arrêt de Nice,43.71202475,7.280359513009377
+Ardèche,B,67,Maison d’arrêt de Privas,44.73547245,4.5947536250373116
+Ardennes,B,68,Maison d’arrêt de Charleville-Mézières,49.77205,4.72283829340836
+Ariège,B,69,Maison d’arrêt de Foix,42.960091000000006,1.6101567198744884
+Aube,B,70,Maison d’arrêt de Troyes,48.300411800000006,4.077159513239495
+Aude,B,71,Maison d’arrêt de Carcassonne,43.2111077,2.362643040965948
+Aveyron,B,72,Maison d’arrêt de Rodez,44.37082755,2.5321561089932807
+Bouches-du-Rhône,B,73,Quartier maison d’arrêt du centre pénitentiaire d’Aix-Luynes,43.481159649999995,5.39829480311538
+Bouches-du-Rhône,B,74,Quartier maison d’arrêt du centre pénitentiaire de Marseille,43.23248314999999,5.4147393100954275
+Calvados,B,75,Quartier maison d’arrêt du centre pénitentiaire de Caen,49.18522565,-0.40278899645997907
+Calvados,B,76,Maison d’arrêt de Caen,49.141588999999996,-0.3178259312036614
+Cantal,B,77,Maison d’arrêt d’Aurillac,44.92877885,2.4421214056790124
+Charente,B,78,Maison d’arrêt d’Angoulême,45.6503802,0.1667705960055867
+Charente-Maritime,B,79,Maison d’arrêt de Rochefort,45.9414955,-0.9612876999141415
+Charente-Maritime,B,80,Maison d’arrêt de Saintes,45.74605805,-0.6255010464203925
+Cher,B,81,Maison d’arrêt de Bourges,47.095336599999996,2.398747008417949
+Corrèze,B,82,Maison d’arrêt de Tulle,45.2753884,1.7686255928761545
+Corse-du-Sud,B,83,Maison d’arrêt d’Ajaccio,41.92597155,8.736671631879346
+Haute-Corse,B,84,Quartier maison d’arrêt du centre pénitentiaire de Borgo,42.5775476,9.445886121584946
+Côte-d’Or,B,85,Maison d’arrêt de Dijon,47.311823000000004,5.050216132251082
+Côtes-d’Armor,B,86,Maison d’arrêt de Saint-Brieuc,48.50838495,-2.7500625230344826
+Creuse,B,87,Maison d’arrêt de Guéret,46.1701308,1.8723573920232697
+Dordogne,B,88,Maison d’arrêt de Périgueux,45.18904595,0.7192182700078034
+Doubs,B,89,Maison d’arrêt de Besançon,47.2361458,6.006063451248406
+Doubs,B,90,Maison d’arrêt de Montbéliard,47.5142252,6.796376134723095
+Drôme,B,91,Quartier maison d’arrêt du centre pénitentiaire de Valence,44.911139399999996,4.929394074718273
+Eure,B,92,Maison d’arrêt d’Évreux,49.01530355,1.1671066305424787
+Finistère,B,93,Maison d’arrêt de Brest,48.4205171,-4.4755658410688195
+Gard,B,94,Maison d’arrêt de Nîmes,43.84315055,4.395665069829824
+Haute-Garonne,B,95,Quartier maison d’arrêt du centre pénitentiaire de Toulouse-Seysses,43.4891313,1.3256596861606846
+Gironde,B,96,Quartier maison d’arrêt du centre pénitentiaire de Bordeaux-Gradignan,44.7831752,-0.5958830816715681
+Hérault,B,97,Quartier maison d’arrêt du centre pénitentiaire de Béziers,43.339656500000004,3.1803971140205203
+Hérault,B,98,Quartier maison d’arrêt du centre pénitentiaire de Villeneuve-lès-Maguelone,43.546221,3.8264792285453595
+Ille-et-Vilaine,B,99,Quartier maison d’arrêt du centre pénitentiaire de Rennes,48.1005113,-1.6741917920901563
+Ille-et-Vilaine,B,100,Quartier maison d’arrêt du centre pénitentiaire de Rennes-Vezin-le-Coquet,48.10876575,-1.7368903130181876
+Ille-et-Vilaine,B,101,Maison d’arrêt de Saint-Malo,48.6476581,-1.993645867063929
+Indre,B,102,Quartier maison d’arrêt du centre pénitentiaire de Châteauroux,46.7933552,1.7221461465377266
+Indre-et-Loire,B,103,Maison d’arrêt de Tours,47.37731155,0.6916794224088972
+Isère,B,104,Quartier maison d’arrêt du centre pénitentiaire de Grenoble-Varces,45.099436049999994,5.686251662459265
+Isère,B,105,Quartier maison d’arrêt du centre pénitentiaire de Saint-Quentin-Fallavier,45.6583028,5.12521801963557
+Jura,B,106,Maison d’arrêt de Lons-le-Saunier,46.6741795,5.556600844096431
+Landes,B,107,Quartier maison d’arrêt du centre pénitentiaire de Mont-de-Marsan,43.895194000000004,-0.4498092924905801
+Loir-et-Cher,B,108,Maison d’arrêt de Blois,47.5971091,1.33900429171746
+Loire,B,109,Quartier maison d’arrêt du centre pénitentiaire de Saint-Etienne-La Talaudière,45.472960900000004,4.415608826768538
+Haute-Loire,B,110,Maison d’arrêt du Puy-en-Velay,45.03622865,3.8859526715452684
+Loire-Atlantique,B,111,Quartier maison d’arrêt du centre pénitentiaire de Nantes,47.26716765,-1.5059618837965592
+Loiret,B,112,Quartier maison d’arrêt du centre pénitentiaire d’Orléans-Saran,47.9650823,1.8727090320257642
+Lot-et-Garonne,B,113,Maison d’arrêt d’Agen,44.1991837,0.6178443482223859
+Lozère,B,114,Maison d’arrêt de Mende,44.5163697,3.4931149596922273
+Maine-et-Loire,B,115,Maison d’arrêt d’Angers,47.47461199999999,-0.5409678480713109
+Manche,B,116,Maison d’arrêt de Cherbourg,49.6374225,-1.6236970694791362
+Manche,B,117,Maison d’arrêt de Coutances,49.050647600000005,-1.441332029602055
+Marne,B,118,Maison d’arrêt de Châlons-en-Champagne,48.96266035,4.367600242072109
+Marne,B,119,Maison d’arrêt de Reims,49.27061675,4.028680688608649
+Haute-Marne,B,120,Maison d’arrêt de Chaumont,48.1064063,5.132874983531167
+Mayenne,B,121,Maison d’arrêt de Laval,48.06639775,-0.7830058013228067
+Meurthe-et-Moselle,B,122,Maison d’arrêt de Nancy-Maxéville,48.7073024,6.151035827669377
+Meuse,B,123,Maison d’arrêt de Bar-le-Duc,48.76836605,5.160303104139072
+Morbihan,B,124,Quartier maison d’arrêt du centre pénitentiaire de Lorient-Ploemeur,47.726339249999995,-3.4156513990699526
+Morbihan,B,125,Maison d’arrêt de Vannes,47.6601024,-2.7630427541880778
+Moselle,B,126,Quartier maison d’arrêt du centre pénitentiaire de Metz,49.09891025,6.20926448368301
+Moselle,B,127,Maison d’arrêt de Sarreguemines,49.105979250000004,7.057644707877701
+Nièvre,B,128,Maison d’arrêt de Nevers,46.99250495,3.1562351870489342
+Nord,B,129,Maison d’arrêt de Douai,50.3766109,3.0598654
+Nord,B,130,Maison d’arrêt de Dunkerque,51.0398625,2.3813026595175533
+Nord,B,131,Quartier maison d’arrêt du centre pénitentiaire de Lille-Annœullin,50.5122116,2.939155076782866
+Nord,B,132,Quartier maison d’arrêt du centre pénitentiaire de Lille-Loos-Sequedin,50.620497,2.967030033522555
+Nord,B,133,Quartier maison d’arrêt du centre pénitentiaire de Maubeuge,50.28869545,4.0031105022405065
+Nord,B,134,Maison d’arrêt de Valenciennes,50.35513315,3.4979665459950144
+Oise,B,135,Quartier maison d’arrêt du centre pénitentiaire de Beauvais,49.409146,2.08186245941282
+Oise,B,136,Quartier maison d’arrêt du centre pénitentiaire de Liancourt,49.3326658,2.476362300431382
+Orne,B,137,Quartier Maison d’Arrêt du centre pénitentiaire d’Alençon-Condé sur Sarthe,48.43970765,0.010139113372974082
+Pas-de-Calais,B,138,Maison d’arrêt d’Arras,50.293147000000005,2.760902485538959
+Pas-de-Calais,B,139,Maison d’arrêt de Béthune,50.5366096,2.6374371934878047
+Pas-de-Calais,B,140,Quartier maison d’arrêt du centre pénitentiaire de Longuenesse,50.726293,2.247749496722383
+Pas-de-Calais,B,141,Quartier maison d’arrêt du centre pénitentiaire de Vendin-le-Vieil,50.45873215,2.821499058493697
+Puy-de-Dôme,B,142,Quartier maison d’arrêt du centre pénitentiaire de Riom,45.88982355,3.151027687988614
+Pyrénées-Atlantiques,B,143,Maison d’arrêt de Bayonne,43.491305749999995,-1.4630025532410014
+Pyrénées-Atlantiques,B,144,Maison d’arrêt de Pau,43.30329555,-0.372755137581149
+Hautes-Pyrénées,B,145,Maison d’arrêt de Tarbes,43.2352036,0.07933568869281946
+Pyrénées-Orientales,B,146,Quartier maison d’arrêt du centre pénitentiaire de Perpignan,42.67991925,2.8713266137836744
+Bas-Rhin,B,147,Maison d’arrêt de Strasbourg,44.1991837,0.6178443482223859
+Haut-Rhin,B,148,Quartier maison d’arrêt du centre pénitentiaire de Mulhouse-Lutterbach,47.760515999999996,7.258304967633373
+Rhône,B,149,Maison d’arrêt de Lyon-Corbas,45.67947115,4.93128260304083
+Rhône,B,150,Quartier maison d’arrêt du centre pénitentiaire de Villefranche-sur-Saône,45.99755595,4.724998989055585
+Haute-Saône,B,151,Maison d’arrêt de Vesoul,47.6247937,6.155353070445367
+Saône-et-Loire,B,152,Quartier maison d’arrêt du centre pénitentiaire de Varennes-le-Grand,46.6987568,4.836895568765476
+Sarthe,B,153,Maison d’arrêt du Mans-les-Croisettes,48.043282149999996,0.2158673258318637
+Savoie,B,154,Quartier maison d’arrêt du centre pénitentiaire d’Aiton,45.565218099999996,6.231702410190571
+Savoie,B,155,Maison d’arrêt de Chambéry,45.574638050000004,5.905747535138291
+Haute-Savoie,B,156,Maison d’arrêt de Bonneville,46.0804178,6.400918469087319
+Paris,B,157,Quartier maison d’arrêt du centre pénitentiaire de Paris-La Santé,48.833882700000004,2.3397439789181727
+Seine-Maritime,B,158,Quartier maison d’arrêt du centre pénitentiaire du Havre,49.5178565,0.2833644205684207
+Seine-Maritime,B,159,Maison d’arrêt de Rouen,49.43301175,1.0767465838482506
+Seine-et-Marne,B,160,Quartier maison d’arrêt du centre pénitentiaire du Sud Francilien,48.6022572,2.5914315422660916
+Seine-et-Marne,B,161,Quartier maison d’arrêt du centre pénitentiaire de Meaux-Chauconin-Neufmontiers,48.9616353,2.8655815250459993
+Yvelines,B,162,Quartier maison d’arrêt du centre pénitentiaire de Bois-d’Arcy,48.806750199999996,2.030337257054531
+Yvelines,B,163,Maison d’arrêt de Versailles,48.8000419,2.1346717322402284
+Deux-Sèvres,B,164,Maison d’arrêt de Niort,46.323827300000005,-0.46659541569999896
+Somme,B,165,Maison d’arrêt d’Amiens,49.90894685,2.3238009614876383
+Tarn,B,166,Maison d’arrêt d’Albi,43.9171338,2.1230686747736267
+Tarn-et-Garonne,B,167,Maison d’arrêt de Montauban,44.007857650000005,1.3626104345587442
+Var,B,168,Maison d’arrêt de Draguignan,43.5020625,6.423950188331135
+Var,B,169,Quartier maison d’arrêt du centre pénitentiaire de Toulon-La Farlède,43.15857185,6.056813740287114
+Vaucluse,B,170,Quartier maison d’arrêt du centre pénitentiaire d’Avignon-Le Pontet,43.9689913,4.863238544847514
+Vendée,B,171,Maison d’arrêt de Fontenay-le-Comte,46.46834855,-0.8128138798529407
+Vendée,B,172,Maison d’arrêt de La Roche-sur-Yon,46.6757062,-1.426109112020439
+Vienne,B,173,Quartier maison d’arrêt du centre pénitentiaire de Poitiers-Vivonne,46.4134051,0.24128725378547078
+Haute-Vienne,B,174,Maison d’arrêt de Limoges,45.8314654,1.2511165440933076
+Vosges,B,175,Maison d’arrêt d’Epinal,48.18804605,6.468716337905144
+Yonne,B,176,Maison d’arrêt d’Auxerre,47.803244199999995,3.565992329526133
+Territoire de Belfort,B,177,Maison d’arrêt de Belfort,47.63769765,6.863312961598869
+Essonne,B,178,Maison d’arrêt de Fleury-Mérogis,48.6379041,2.375435972776474
+Hauts-de-Seine,B,179,Quartier maison d’arrêt du centre pénitentiaire de Nanterre-Hauts-de-Seine,48.906717,2.2046705304022822
+Seine-Saint-Denis,B,180,Maison d’arrêt de Villepinte-Seine-Saint-Denis,48.9665508,2.5543611587815085
+Val-de-Marne,B,181,Quartier maison d’arrêt du centre pénitentiaire de Fresnes,48.76361315,2.3218525631887843
+Val-d’Oise,B,182,Maison d’arrêt d’Osny-Pontoise,49.0707193,2.091996
+Guadeloupe,B,183,Quartier maison d’arrêt du centre pénitentiaire de Baie-Mahault,16.26401955,-61.57247935
+Guadeloupe,B,184,Maison d’arrêt de Basse-Terre,15.9925449,-61.72719405
+Martinique,B,185,Quartier maison d’arrêt du centre pénitentiaire de Ducos,14.5765436,-60.99153995955844
+Guyane,B,186,Quartier maison d’arrêt du centre pénitentiaire de Rémire-Montjoly,4.8735315,-52.299281574510346
+La Réunion,B,187,Quartier maison d’arrêt du centre pénitentiaire de Saint-Denis,-20.919261149999997,55.50468410818293
+La Réunion,B,188,Maison d’arrêt de Saint-Pierre,-21.3412005,55.46543956044287
+Saint-Pierre-et-Miquelon,B,189,Quartier maison d’arrêt du centre pénitentiaire de Saint-Pierre,46.781175,-56.1708112
+Mayotte,B,190,Quartier maison d’arrêt du centre pénitentiaire de Majicavo,-12.75066305,45.228176574858345
+Iles Wallis et Futuna,B,191,Maison d’arrêt de Mata-Utu,-13.3,-176.2
+Polynésie française,B,192,Quartier maison d’arrêt du centre pénitentiaire de Faa’a-Nuutania,-17.55685045,-149.5898852802626
+Polynésie française,B,193,Quartier maison d’arrêt du centre pénitentiaire de Taiohae,-8.9137449,-140.0943209
+Polynésie française,B,194,Quartier maison d’arrêt du centre pénitentiaire d’Uturoa,-16.729909,-151.4461513414802
+Nouvelle-Calédonie,B,195,Quartier maison d’arrêt du centre pénitentiaire de Nouméa,-22.27124375,166.424398113832
+Ain,C,196,Quartier centre de détention du centre pénitentiaire de Bourg-en-Bresse,46.19561525,5.24575686318212
+Aisne,C,197,Quartier centre de détention du centre pénitentiaire de Château-Thierry,49.05008215,3.397028143907563
+Aisne,C,198,Quartier centre de détention du centre pénitentiaire de Laon,49.5820256,3.638183349456678
+Aube,C,199,Centre de détention de Villenauxe-la-Grande,48.603091,3.5762593659169517
+Bouches-du-Rhône,C,200,Quartier centre de détention du centre pénitentiaire de Marseille,43.23248314999999,5.4147393100954275
+Bouches-du-Rhône,C,201,Centre de détention de Salon-de-Provence,43.6334679,5.047920126476985
+Bouches-du-Rhône,C,202,Centre de détention de Tarascon,43.79183255,4.656862710705405
+Calvados,C,203,Quartier centre de détention du centre pénitentiaire de Caen,49.18522565,-0.40278899645997907
+Charente-Maritime,C,204,Centre de détention de Bédenac,45.2019452,-0.3375435258475408
+Corrèze,C,205,Centre de détention d’Uzerche,45.4375854,1.5929148689794506
+Haute-Corse,C,206,Quartier centre de détention du centre pénitentiaire de Borgo,42.5775476,9.445886121584946
+Haute-Corse,C,207,Centre de détention de Casabianda,42.09408995,9.503625171666425
+Dordogne,C,208,Centre de détention de Mauzac,44.8503487,0.7911493200926771
+Dordogne,C,209,Centre de détention de Neuvic,45.07845805,0.4493782933344664
+Eure,C,210,Centre de détention de Val-de-Reuil,49.28388065,1.221051091113883
+Eure-et-Loir,C,211,Centre de détention de Châteaudun,48.06848775,1.3583487663956064
+Haute-Garonne,C,212,Centre de détention de Muret,43.48476935,1.3233081376324947
+Hérault,C,213,Quartier centre de détention du centre pénitentiaire de Béziers,43.339656500000004,3.1803971140205203
+Ille-et-Vilaine,C,214,Quartier centre de détention du centre pénitentiaire de Rennes,48.1005113,-1.6741917920901563
+Ille-et-Vilaine,C,215,Quartier centre de détention du centre pénitentiaire de Rennes-Vezin-le-Coquet,48.10876575,-1.7368903130181876
+Indre,C,216,Quartier centre de détention du centre pénitentiaire de Châteauroux,46.7933552,1.7221461465377266
+Isère,C,217,Quartier centre de détention du centre pénitentiaire de Saint-Quentin-Fallavier,45.6583028,5.12521801963557
+Landes,C,218,Quartier centre de détention du centre pénitentiaire de Mont-de-Marsan,43.895194000000004,-0.4498092924905801
+Loire,C,219,Centre de détention de Roanne,46.05410735,4.102302146454084
+Loire-Atlantique,C,220,Quartier centre de détention du centre pénitentiaire de Nantes,47.26716765,-1.5059618837965592
+Loiret,C,221,Quartier centre de détention du centre pénitentiaire d’Orléans-Saran,47.9650823,1.8727090320257642
+Lot-et-Garonne,C,222,Centre de détention d’Eysses,44.41815665,0.7211967009897613
+Meurthe-et-Moselle,C,223,Centre de détention d’Ecrouves,48.68170935,5.848440056283417
+Meurthe-et-Moselle,C,224,Centre de détention de Toul,48.65940785,5.882608481493607
+Meuse,C,225,Centre de détention de Montmédy,49.5246329,5.3696452141216895
+Meuse,C,226,Centre de détention de Saint-Mihiel,48.8820637,5.5321713
+Morbihan,C,227,Quartier centre de détention du centre pénitentiaire de Lorient-Ploemeur,47.726339249999995,-3.4156513990699526
+Nord,C,228,Quartier centre de détention du centre pénitentiaire de Lille-Annœullin,50.5122116,2.939155076782866
+Nord,C,229,Quartier centre de détention du centre pénitentiaire de Maubeuge,50.28869545,4.0031105022405065
+Oise,C,230,Quartier centre de détention du centre pénitentiaire de Liancourt,49.3326658,2.476362300431382
+Orne,C,231,Centre de détention d’Argentan,48.723200500000004,0.008925999512212415
+Pas-de-Calais,C,232,Centre de détention de Bapaume,50.103900100000004,2.8654495062705134
+Pas-de-Calais,C,233,Quartier centre de détention du centre pénitentiaire de Longuenesse,50.726293,2.247749496722383
+Pas-de-Calais,C,234,Quartier centre de détention du centre pénitentiaire de Vendin-le-Vieil,50.45873215,2.821499058493697
+Puy-de-Dôme,C,235,Quartier centre de détention du centre pénitentiaire de Riom,45.88982355,3.151027687988614
+Hautes-Pyrénées,C,236,Quartier centre de détention du centre pénitentiaire de Lannemezan,43.11053815,0.37586900639392884
+Pyrénées-Orientales,C,237,Quartier centre de détention du centre pénitentiaire de Perpignan,42.67991925,2.8713266137836744
+Bas-Rhin,C,238,Centre de détention d’Oermingen,49.0018041,7.136997564095917
+Haut-Rhin,C,239,Quartier centre de détention du centre pénitentiaire de Mulhouse-Lutterbach,47.760515999999996,7.258304967633373
+Saône-et-Loire,C,240,Quartier centre de détention du centre pénitentiaire de Varennes-le-Grand,46.6987568,4.836895568765476
+Savoie,C,241,Quartier centre de détention du centre pénitentiaire d’Aiton,45.565218099999996,6.231702410190571
+Seine-Maritime,C,242,Quartier centre de détention du centre pénitentiaire du Havre,49.5178565,0.2833644205684207
+Seine-et-Marne,C,243,Quartier centre de détention du centre pénitentiaire du Sud Francilien,48.6022572,2.5914315422660916
+Seine-et-Marne,C,244,Quartier centre de détention du centre pénitentiaire de Meaux-Chauconin-Neufmontiers,48.9616353,2.8655815250459993
+Seine-et-Marne,C,245,Centre de détention de Melun,48.535016999999996,2.6616422906675026
+Tarn,C,246,Centre de détention de Saint-Sulpice-la-Pointe,43.7751461,1.689427966865101
+Var,C,247,Quartier centre de détention du centre pénitentiaire de Toulon-La Farlède,43.15857185,6.056813740287114
+Vaucluse,C,248,Quartier centre de détention du centre pénitentiaire d’Avignon-Le Pontet,43.9689913,4.863238544847514
+Vienne,C,249,Quartier centre de détention du centre pénitentiaire de Poitiers-Vivonne,46.4134051,0.24128725378547078
+Yonne,C,250,Centre de détention de Joux-la-Ville,47.618894350000005,3.8114157371371116
+Guadeloupe,C,251,Quartier centre de détention du centre pénitentiaire de Baie-Mahault,16.26401955,-61.57247935
+Martinique,C,252,Quartier centre de détention du centre pénitentiaire de Ducos,14.5765436,-60.99153995955844
+Guyane,C,253,Quartier centre de détention du centre pénitentiaire de Rémire-Montjoly,4.8735315,-52.299281574510346
+La Réunion,C,254,Centre de détention du Port,-20.9525444,55.313971820808916
+La Réunion,C,255,Quartier centre de détention du centre pénitentiaire de Saint-Denis,-20.919261149999997,55.50468410818293
+Saint-Pierre-et-Miquelon,C,256,Quartier centre de détention du centre pénitentiaire de Saint-Pierre,46.781175,-56.1708112
+Mayotte,C,257,Quartier centre de détention du centre pénitentiaire de Majicavo,-12.75066305,45.228176574858345
+Polynésie française,C,258,Quartier centre de détention du centre pénitentiaire de Faa’a-Nuutania,-17.55685045,-149.5898852802626
+Polynésie française,C,259,Centre de détention Tatutu de Papeari,-17.73777,-149.33808283851465
+Polynésie française,C,260,Quartier centre de détention du centre pénitentiaire de Taiohae,-8.9137449,-140.0943209
+Polynésie française,C,261,Quartier centre de détention du centre pénitentiaire d’Uturoa,-16.729909,-151.4461513414802
+Nouvelle-Calédonie,C,262,Centre de détention de Koné,-21.0729951,164.85112492336225
+Nouvelle-Calédonie,C,263,Quartier centre de détention du centre pénitentiaire de Nouméa,-22.27124375,166.424398113832
+Aisne,D,264,Quartier maison centrale du centre pénitentiaire de Château-Thierry,49.05008215,3.397028143907563
+Allier,D,265,Quartier maison centrale du centre pénitentiaire de Moulins-Yzeure,46.537681899999995,3.3552877566214594
+Aube,D,266,Maison centrale de Clairvaux,48.1480126,4.788895650356954
+Bouches-du-Rhône,D,267,Maison centrale d’Arles,43.70703295,4.635979468101226
+Charente-Maritime,D,268,Maison centrale de Saint-Martin-de-Ré,46.20141649999999,-1.3609980408004245
+Drôme,D,269,Quartier maison centrale du centre pénitentiaire de Valence,44.911139399999996,4.929394074718273
+Indre,D,270,Maison centrale de Saint-Maur,46.79530665,1.6332577483336421
+Orne,D,271,Quartier maison centrale du centre pénitentiaire d’Alençon-Condé-sur-Sarthe,48.43970765,0.010139113372974082
+Pas-de-Calais,D,272,Quartier maison centrale du centre pénitentiaire de Vendin-le-Vieil,50.45873215,2.821499058493697
+Hautes-Pyrénées,D,273,Quartier maison centrale du centre pénitentiaire de Lannemezan,43.11053815,0.37586900639392884
+Haut-Rhin,D,274,Maison centrale d’Ensisheim,47.864444750000004,7.351605157282107
+Seine-et-Marne,D,275,Quartier maison centrale du centre pénitentiaire du Sud Francilien,48.6022572,2.5914315422660916
+Yvelines,D,276,Maison centrale de Poissy,48.9278591,2.039201315354628
+Doubs,E,277,Centre de semi-liberté de Besançon,47.2507005,6.0225279
+Haute-Garonne,E,278,Quartier de semi-liberté du centre pénitentiaire de Toulouse-Seysses,43.4891313,1.3256596861606846
+Ille-et-Vilaine,E,279,Quartier de semi-liberté du centre pénitentiaire de Rennes-Vezin-le-Coquet,48.10876575,-1.7368903130181876
+Landes,E,280,Quartier de semi-liberté du centre pénitentiaire de Mont-de-Marsan,43.895194000000004,-0.4498092924905801
+Loire-Atlantique,E,281,Quartier de semi-liberté du centre pénitentiaire de Nantes,47.26716765,-1.5059618837965592
+Loiret,E,282,Centre de semi-liberté de Montargis,47.999238,2.7307061632231404
+Meurthe-et-Moselle,E,283,Centre de semi-liberté de Maxéville,48.71299095,6.155636476207367
+Meurthe-et-Moselle,E,284,Centre de semi-liberté de Val de Briey,49.25158175,5.9396374940491725
+Nord,E,285,Quartier de semi-liberté d’Haubourdin du centre pénitentiaire de Lille-Loos-Sequedin,50.620497,2.967030033522555
+Puy-de-Dôme,E,286,Quartier de semi-liberté du centre pénitentiaire de Riom,45.88982355,3.151027687988614
+Bas-Rhin,E,287,Centre de semi-liberté de Souffelweyersheim,48.62902765,7.753991033942457
+Rhône,E,288,Centre de semi-liberté de Lyon,45.74163605,4.843633573368145
+Seine-et-Marne,E,289,Centre de semi-liberté de Melun,48.5427039,2.6589171873516033
+Yvelines,E,290,Quartier de semi-liberté du centre pénitentiaire de Bois-d’Arcy,48.806750199999996,2.030337257054531
+Vaucluse,E,291,Quartier de semi-liberté du centre pénitentiaire d’AvignonLe Pontet,43.9689913,4.863238544847514
+Vienne,E,292,Quartier de semi-liberté du centre pénitentiaire de Poitiers-Vivonne,46.4134051,0.24128725378547078
+Essonne,E,293,Centre de semi-liberté de Corbeil,48.61107395,2.4783600757588538
+Seine-Saint-Denis,E,294,Centre de semi-liberté de Gagny,48.88127015,2.5335183507299255
